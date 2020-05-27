@@ -19,9 +19,9 @@ ext {
 
     publishedGroupId = 'com.example.customtoastgowtham'
     artifact = 'customtoastgowtham'
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.1'
 
-    libraryDescription = 'my test'
+    libraryDescription = 'my test v1.0.1'
     siteUrl = 'https://github.com/jgowtham8/CustomToastGowtham'
     gitUrl = 'https://github.com/jgowtham8/CustomToastGowtham'
     developerId = 'jgowtham8'
