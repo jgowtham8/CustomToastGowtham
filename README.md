@@ -1,4 +1,3 @@
-# CustomToastGowtham
 How to add...
 dependencies {    
       implementation 'com.example.customtoastgowtham:customtoastgowtham:1.0.1'
