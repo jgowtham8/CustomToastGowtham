@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        CustomToastGowtham.showToast(MainActivity.this, "Hi..", R.color.colorAccent, Gravity.TOP);
+        CustomToastGowtham.showToast(MainActivity.this, "Hi..", R.color.colorPrimaryDark, R.color.colorAccent, Gravity.TOP);
     }
 }
